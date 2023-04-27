@@ -4,7 +4,7 @@
  *  main - entry into the program
  *
  *  Return: prints the message
- *  'with proper grammar, but the outcome is a piece of art' 
+ *  'with proper grammar, but the outcome is a piece of art'
  *  to the screen.
  *
  */
